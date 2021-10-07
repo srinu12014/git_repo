@@ -1,7 +1,7 @@
 This project is an web application
 
 Technologies used:
-HTML
+HTML 
 CSS
 JAva
 react
