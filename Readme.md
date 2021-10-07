@@ -5,3 +5,4 @@ HTML
 CSS
 JAva
 react
+angular
